@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ersa Sa'dul
+- 👋 Hi, I’m Ersa Asyhar
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java and python
-- 📫 How to reach me ersasadulashar@gmail.com / @ersadul_
+- 🌱 I’m currently learning
+- 📫 How to reach me @ersaasyhar
 
 <!---
 ibukansaya/ibukansaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
